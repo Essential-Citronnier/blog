@@ -25,3 +25,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Add this for individual blog post styling */
+article {
+    margin-left: 10px;  /* Reduce left margin */
+    margin-right: 10px;  /* Reduce right margin */
+    padding: 1rem;
+    border: 1px solid #ddd;  /* Optional: Add a subtle border */
+    border-radius: 5px;  /* Optional: Add rounded corners */
+}
