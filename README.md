@@ -21,3 +21,11 @@
 ## 문의
 더 궁금한 사항이 있으면 ECR의 지원팀에 문의해주세요: [essentialcitronnier@gmail.com]
 
+
+
+### 업데이트 알림
+- fastapi 서버를 통해 마크다운 파일을 blog 형태로 확인할 수 있고
+- 마크다운 형식으로 입력된 유튜브 링크는 자동으로 유튜브 임베딩으로 전환된다.
+- e.g. (반드시 YouTube 링크 라고 써야 embedding 이 된다.)
+[YouTube 링크](https://www.youtube.com/watch?v=sZwgpz4s8Jw&t=97s)
+

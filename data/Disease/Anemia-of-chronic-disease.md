@@ -60,3 +60,6 @@ ACD는 소적혈구빈혈의 형태로 나타나기도 하지만, 질환이 경�
   - **CKD 환자**: EPO, 50~150 U/kg, IV, 1주 3회 투여
 - EPO 투여 후 Hb 감소 시 → 감염, iron depletion이 발생했음을 의미 → EPO 대신 수혈로 대체
 
+
+
+[YouTube 링크](https://www.youtube.com/watch?v=21kJ4YddpPQ)
