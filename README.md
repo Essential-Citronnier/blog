@@ -11,14 +11,13 @@
 ### 2. 플랫폼 코드 라이선스
 이 플랫폼의 소스 코드는 MIT 라이선스에 따라 자유롭게 사용할 수 있습니다. 다만, 해당 소스 코드를 사용하는 모든 배포본에는 원 저작권자인 ECR의 저작권 표시를 포함해야 합니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
-## 사용 방법
+## How-to-use
 
-
-## 기여 방법
+### 기여 방법
 1. 블로그 글을 작성하고 싶다면 [블로그 작성 가이드](CONTRIBUTING.md)를 참고하세요.
 2. 플랫폼 코드에 기여하고 싶은 경우, [기여 가이드](CONTRIBUTING.md)를 참고하세요.
 
-## 문의
+### 문의
 더 궁금한 사항이 있으면 ECR의 지원팀에 문의해주세요: [essentialcitronnier@gmail.com]
 
 
@@ -31,22 +30,19 @@
   [YouTube 링크](https://www.youtube.com/watch?v=sZwgpz4s8Jw&t=97s)
 
 
+## For developers
 
-
-
-## fastapi 서버 or 정적 사이트 (github pages)
+### fastapi 서버 or 정적 사이트 (github pages)
 fastapi - main.py & data
-main.py 는 fastapi 실행 함수로서, data 디렉터리 하위의 md 파일을 보여준다.
+[main.py](main.py) 는 fastapi 실행 함수로서, data 디렉터리 하위의 md 파일을 보여준다.
 
 
 static - index.html & data_html
-index.html 은 github pages 기본 페이지로, data_html 디렉터리의 파일을 보여주는 메인 페이지이다.
-
-
+[index.html](index.html) 은 github pages 기본 페이지로, data_html 디렉터리의 파일을 보여주는 메인 페이지이다.
 
 md -> html 동기화
 항상 md 파일을 기준으로 생성하고 html 파일을 md 파일에 동기화하는 방식으로 진행한다.
 
-index.py는 data_html 디렉터리 안 정적 파일의 리스트를 담고 있는 index.html 파일을 업데이트하는 함수로, 주기적으로 실행하는 것을 추천한다.
+[index.py](index.py)는 data_html 디렉터리 안 정적 파일의 리스트를 담고 있는 index.html 파일을 업데이트하는 함수로, 주기적으로 실행하는 것을 추천한다.
 
-convert.py는 data 디렉터리에 md 파일을 생성하면 자동을로 html 파일을 생성해주는 함수로, 이또한 주기적으로 실행하는 것을 추천한다.
+[convert.py](convert.py)는 data 디렉터리에 md 파일을 생성하면 자동을로 html 파일을 생성해주는 함수로, 이또한 주기적으로 실행하는 것을 추천한다.
