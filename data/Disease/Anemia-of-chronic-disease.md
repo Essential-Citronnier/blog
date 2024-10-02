@@ -1,8 +1,20 @@
+---
+title: 만성질환 빈혈 (Anemia of Chronic Disease, ACD)
+author: Daeseong Kim
+date: 2024-10-03
+description: 감염, 자가면역질환, 암 등의 만성 질환으로 인한 빈혈의 병태생리, 진단, 치료법을 다룬 자료.
+---
+빈혈의 스키마적 접근
+
+1. **적혈구 생산 감소**: 영양소 부족(철, 비타민 B12, 엽산), 골수 질환, 만성 질환, 내분비 이상 등이 원인.
+2. **적혈구 파괴 증가(용혈)**: 유전적 이상(겸상 적혈구병, 지중해 빈혈), 자가면역 질환, 기계적 적혈구 손상 등이 원인.
+3. **혈액 손실**: 급성 또는 만성 출혈로 인한 빈혈(외상, 수술, 위장관 출혈, 과다 월경 등).
+
+---
 # 만성질환 빈혈 (Anemia of Chronic Disease, ACD)
 
 ACD는 소적혈구빈혈의 형태로 나타나기도 하지만, 질환이 경할 경우 normocytic normochromic anemia로 나타나는 경우도 많으므로 MCV, MCH 등의 lab을 해석하는 데 있어 주의가 필요하다. IDA와 thalassemia와의 감별 과정에서 iron lab 소견을 잘 읽을 줄 알아야 하므로 IDA와 ACD의 iron lab이 어떻게 다른지 알아두는 것이 중요 포인트라고 할 수 있다.
 
-> 참고: 빈혈의 분류, 소적혈구빈혈의 비교
 
 ## 1. 개요
 
@@ -26,25 +38,40 @@ ACD는 소적혈구빈혈의 형태로 나타나기도 하지만, 질환이 경�
       - **RBC 수명 단축**
       - **조혈작용을 하는 골수 stem cell을 직접적으로 억제**
 
+아래에 요청하신 대로 수정한 내용을 제시합니다. 의학 용어는 영어로 그대로 두고 나머지 부분은 한글로 변환하였습니다.
+
 ## 2. 임상양상 및 검사소견
 
 ### 1) 증상 및 징후
-- 일반적인 만성 빈혈과 유사 (빈혈의 접근, IDA 단원 참고)
+- 일반적인 만성 빈혈과 유사  
+  피로감과 무기력감  
+  운동 시 특히 숨이 참  
+  창백하거나 노란빛 피부  
+  불규칙한 심장 박동 또는 심계항진  
+  어지러움 또는 현기증  
+  손발이 차가움  
+  흉통  
+  두통  
+
+  - 부서지기 쉬운 손톱  
+  - 탈모  
+  - **Pica**(얼음이나 흙과 같은 비식품을 갈망)  
+  - 하지 불안 증후군
 
 ### 2) CBC
-- Hb: 감소하나, < 8 g/dL로 떨어지는 경우는 드묾
-- RBC index:
-  - MCV: **normocytic → 진행되면 microcytic**
-  - **Reticulocyte 감소**
+- **Hemoglobin (Hb)**: 감소하나, 8 g/dL 이하로 떨어지는 경우는 드묾
+- 적혈구 지수 (RBC index):
+  - **Mean Corpuscular Volume (MCV)**: 정상적 크기 (normocytic)이지만, 진행되면 작은 적혈구 (microcytic)로 변화
+  - **Reticulocyte**: 감소
 
-### 3) Iron lab
+### 3) Iron Lab
 1. **혈청 철(serum iron)**: 감소 (< 50 μg/dL)
 2. **Ferritin**: 증가 (30~200 μg/dL)
-   - Heme 생성에 사용되지 못해서 저장철이 오히려 증가
-   - Ferritin은 급성기 반응물질이라 염증 상태에서 또 증가
-3. **TIBC**: 감소 (< 300 μg/dL)
+   - **Heme** 생성을 위해 사용되지 못해 저장 철이 오히려 증가
+   - **Ferritin**은 급성기 반응 물질이기 때문에 염증 상태에서 추가적으로 증가할 수 있음
+3. **Total Iron-Binding Capacity (TIBC)**: 감소 (< 300 μg/dL)
 4. **Transferrin saturation**: 15~20%
-   - ACD에 IDA가 동반될 경우 이보다 더 낮은 transferrin saturation을 보임
+   - **Anemia of Chronic Disease (ACD)**에 **Iron Deficiency Anemia (IDA)**가 동반될 경우, 이보다 더 낮은 **Transferrin saturation**을 보일 수 있음
 
 ## 3. 치료
 
@@ -60,6 +87,3 @@ ACD는 소적혈구빈혈의 형태로 나타나기도 하지만, 질환이 경�
   - **CKD 환자**: EPO, 50~150 U/kg, IV, 1주 3회 투여
 - EPO 투여 후 Hb 감소 시 → 감염, iron depletion이 발생했음을 의미 → EPO 대신 수혈로 대체
 
-
-
-[YouTube 링크](https://www.youtube.com/watch?v=21kJ4YddpPQ)
