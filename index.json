@@ -1,0 +1,114 @@
+[
+    {
+        "folder": "Disease",
+        "files": [
+            {
+                "name": "Anemia-of-chronic-disease.html",
+                "path": "data_html/Disease/Anemia-of-chronic-disease.html"
+            },
+            {
+                "name": "Aortic-dissection.html",
+                "path": "data_html/Disease/Aortic-dissection.html"
+            },
+            {
+                "name": "Deep-venous-thrombosis.html",
+                "path": "data_html/Disease/Deep-venous-thrombosis.html"
+            },
+            {
+                "name": "Asthma.html",
+                "path": "data_html/Disease/Asthma.html"
+            },
+            {
+                "name": "Acute-Post-Infectious-Glomerulonephritis.html",
+                "path": "data_html/Disease/Acute-Post-Infectious-Glomerulonephritis.html"
+            },
+            {
+                "name": "Hypertension.html",
+                "path": "data_html/Disease/Hypertension.html"
+            },
+            {
+                "name": "Anti-phospholipid-syndrome.html",
+                "path": "data_html/Disease/Anti-phospholipid-syndrome.html"
+            },
+            {
+                "name": "Aspirin-NSAIDs-intolerance.html",
+                "path": "data_html/Disease/Aspirin-NSAIDs-intolerance.html"
+            },
+            {
+                "name": "Pyelonephritis.html",
+                "path": "data_html/Disease/Pyelonephritis.html"
+            },
+            {
+                "name": "Food-allergy.html",
+                "path": "data_html/Disease/Food-allergy.html"
+            }
+        ]
+    },
+    {
+        "folder": "Plan",
+        "files": [
+            {
+                "name": "BNP.html",
+                "path": "data_html/Plan/BNP.html"
+            },
+            {
+                "name": "Cardiac resynchronization therapy.html",
+                "path": "data_html/Plan/Cardiac resynchronization therapy.html"
+            },
+            {
+                "name": "CCB.html",
+                "path": "data_html/Plan/CCB.html"
+            },
+            {
+                "name": "Allergen immunotherapy.html",
+                "path": "data_html/Plan/Allergen immunotherapy.html"
+            },
+            {
+                "name": "ARB.html",
+                "path": "data_html/Plan/ARB.html"
+            },
+            {
+                "name": "defence mechanism.html",
+                "path": "data_html/Plan/defence mechanism.html"
+            },
+            {
+                "name": "ACEi.html",
+                "path": "data_html/Plan/ACEi.html"
+            },
+            {
+                "name": "BB.html",
+                "path": "data_html/Plan/BB.html"
+            }
+        ]
+    },
+    {
+        "folder": "Meta",
+        "files": [
+            {
+                "name": "clinical-presentations.html",
+                "path": "data_html/Meta/clinical-presentations.html"
+            },
+            {
+                "name": "example.html",
+                "path": "data_html/Meta/example.html"
+            },
+            {
+                "name": "llama3.5.html",
+                "path": "data_html/Meta/llama3.5.html"
+            }
+        ]
+    },
+    {
+        "folder": "CPX",
+        "files": [
+            {
+                "name": "syncope.html",
+                "path": "data_html/CPX/syncope.html"
+            },
+            {
+                "name": "chest-pain.html",
+                "path": "data_html/CPX/chest-pain.html"
+            }
+        ]
+    }
+]
