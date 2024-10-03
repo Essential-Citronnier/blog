@@ -56,3 +56,13 @@
 ## 만성 신우신염
 - 재발성 또는 지속성 급성 신우신염으로 인해 발생
 - 요로 폐쇄 또는 역류가 원인
+
+
+## Case
+- **Patient Age**: 10 years old
+- **Symptoms**: Chronic kidney disease discovered post-exam. History of recurrent fever episodes mistaken for cold, likely recurrent pyelonephritis.
+- **Diagnostic Methods**: Ultrasound, DMSA scan.
+- **Concerns**: Radiation exposure and its long-term effects, especially in children.
+- **Treatment**: Preventing further damage by monitoring for urinary tract infections during febrile episodes, antibiotic prophylaxis in severe cases of reflux.
+
+**Key Learning Point**: Always suspect a urinary tract infection (UTI) when children have unexplained fever, even if there are no specific UTI symptoms.
