@@ -1,5 +1,16 @@
 # ECR 블로그
 
+ECR blog는 의학 지식과 알고리즘에 대한 글을 작성하고 공유하는 플랫폼입니다. 의학 교육 플랫포인 ECR 서비스와 유기적인 연계를 추구합니다.
+현재 개발 단계이며, 2025년 1월 1일까지 version 1 release를 목표로 개발 및 데이터 제작 중입니다.
+
+## Quickstart
+
+```macos
+git clone https://github.com/Essential-Citronnier/blog.git
+python main.py 8000
+```
+
+
 ## 개요
 이 플랫폼은 다양한 사용자가 의학 지식과 알고리즘에 대한 글을 작성하고 게시할 수 있도록 하는 오픈 플랫폼입니다. 각 사용자는 자신의 블로그 글에 대한 저작권을 보유하며, 플랫폼 코드에 대한 저작권은 ECR에 속합니다.
 

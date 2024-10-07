@@ -99,4 +99,16 @@ def read_post(request: Request, post_id: str):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    import sys
+
+    # Default port
+    port = 8000
+
+    # Check if a port number is provided as a command-line argument
+    if len(sys.argv) > 1:
+        try:
+            port = int(sys.argv[1])
+        except ValueError:
+            print("Invalid port number. Using default port 8000.")
+
+    uvicorn.run(app, host="127.0.0.1", port=port)
