@@ -9,11 +9,11 @@ import re
 app = FastAPI()
 
 # Set up static files and templates
-app.mount("/static", StaticFiles(directory="static"), name="static")
-templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="../static"), name="static")
+templates = Jinja2Templates(directory="../templates")
 
 # Path to the folder where Markdown files are stored
-POSTS_PATH = Path("data")
+POSTS_PATH = Path("../data")
 
 
 
