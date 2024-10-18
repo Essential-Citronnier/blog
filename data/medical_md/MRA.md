@@ -1,0 +1,3 @@
+Mineralocorticoid receptor antagonist
+
+Spironolactone
