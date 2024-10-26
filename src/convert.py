@@ -1,13 +1,17 @@
-# data 하위 4개 폴더 내의 md 파일을 html로 변환하여 data_html 폴더에 저장
+# data 하위 폴더 내의 md 파일을 html로 변환하여 data_html 폴더에 저장
+# 지속적으로 업데이트 진행해야 html 파일이 최신 상태로 유지됨
 # 파일 덮어쓰기 주의
 import os
 import markdown
 
 # 하위 폴더 내의 Markdown 파일을 HTML로 변환하여 저장하는 함수
-def convert_markdown_to_html(src_base_folder, dest_base_folder, sub_folders):
+def convert_markdown_to_html(src_base_folder, dest_base_folder):
     # 저장할 경로의 폴더가 없으면 생성
     if not os.path.exists(dest_base_folder):
         os.makedirs(dest_base_folder)
+    
+    # src_base_folder의 모든 하위 폴더를 찾음
+    sub_folders = [f.name for f in os.scandir(src_base_folder) if f.is_dir()]
     
     # 각 sub_folder에 대해 변환 작업 수행
     for sub_folder in sub_folders:
@@ -46,6 +50,5 @@ def convert_markdown_to_html(src_base_folder, dest_base_folder, sub_folders):
 # 사용 예시
 src_base = 'data'  # Markdown 파일이 들어 있는 기본 경로
 dest_base = 'data_html'  # 변환된 HTML 파일을 저장할 기본 경로
-sub_folders = ['CPX', 'Disease', 'Meta', 'Plan']  # 변환할 하위 폴더 리스트
 
-convert_markdown_to_html(src_base, dest_base, sub_folders)
+convert_markdown_to_html(src_base, dest_base)
