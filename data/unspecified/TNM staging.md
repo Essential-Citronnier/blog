@@ -1,0 +1,6 @@
+[[Tumor]] [[Node]] [[Matastasis]]
+
+T staging
+암의 침윤 깊이 또는 암의 크기로 판정한다.
+[[Solid organ]]은 암의 크기로 판정하고
+[[Hollow organ]] 은 암의 조직 침윤 깊이로 판정한다.
